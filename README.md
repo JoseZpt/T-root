@@ -1,5 +1,6 @@
 # T-root
 Este es un script fácil y rápido para ser usuario root en Termux:
+
 Root nos sirve para obtener control  privilegiado en nuestra terminal.
 
 # Procedimiento
