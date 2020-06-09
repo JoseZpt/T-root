@@ -5,20 +5,15 @@ Root nos sirve para obtener control  privilegiado en nuestra terminal.
 # Procedimiento
 ```
 $ apt update && apt upgrade -y
-```
-```
+
 $ pkg install git -y
-```
-```
+
 $ git clone https://github.com/Anonymous-Zpt/T-root
-```
-```
+
 $ cd T-Root 
-```
-```
+
 $ bash install.sh 
-```
-```
+
 $ ./start
 ```
 
