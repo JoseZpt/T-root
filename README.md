@@ -17,6 +17,10 @@ $ bash install.sh
 $ ./start
 ```
 
+# Procedimiento YouTube
+
+https://youtu.be/OGwhdKCeg2w
+
 # Screenshot
 
  ![Imagen-Root.png](https://github.com/Anonymous-Zpt/Archivos/blob/master/Imagen-Root.png) 
